@@ -7,6 +7,9 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together! Soy sofi
 
 
+##Languages
+
+
 ## Hobbies
 - Dancing: ...
 
@@ -19,5 +22,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
 AHORA AGREGO ESTA LINEA
+
 
 
